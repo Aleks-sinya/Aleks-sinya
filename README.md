@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aleks-sinya
+- 👋 大家好, I’m @Aleks-sinya
 - 👀 I’m interested in Chinese language and China in general 🇨🇳 
 - 🌱 I’m currently learning swift programming language
 - 💞️ I’m looking to collaborate on involving young, responsible programmers! With a new look and desire to develop
