@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="333"/>
 
@@ -14,11 +15,15 @@
   <a href="https://t.me/aleks_sinya">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegramm Badge"/>
 </div>
-
-- 👋 大家好, I’m @Aleks-sinya
-- 👀 I’m interested in Chinese language and China in general 🇨🇳 
-- 🌱 I’m currently learning swift programming language
-- 💞️ I’m looking to collaborate on involving young, responsible programmers! With a new look and desire to develop
-- 📫 My email address: sinyagovskiy93@mail.ru
-
+  
+  ---
+  
+👨‍💻 About Me :
+  👋 大家好! I am a student swift Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. 
+  🌱 I’m currently learning swift programming language.
+  💞️ I’m looking to collaborate on involving young, responsible programmers! With a new look and desire to develop.
+  👀 I’m interested in Chinese language and China in general 🇨🇳.
+ 
+ 💞️ I’m looking to collaborate on involving young, responsible programmers! With a new look and desire to develop
+ 📫 My email address: sinyagovskiy93@mail.ru
 
