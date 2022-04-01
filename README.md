@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="333"/>
-  </div>
+ 
 <div id="badges">
   <a href="https://www.instagram.com/aleks_sinya/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagramm Badge"/>
@@ -16,7 +16,8 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegramm Badge"/> 
   </a>
 </div>
-  
+   </div>
+   
   ---
   
 ### 👨‍💻 About Me :
