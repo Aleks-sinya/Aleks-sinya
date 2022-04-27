@@ -37,6 +37,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
-  <img src="https://webimages.mongodb.com/_com_assets/cms/l0wqwqfmlb2sjq0c4-realm_logo.svg?auto=format%252Ccompress" title="Realm" alt="Apple" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/7774181?s=200&v=4" title="Alamofire" alt="Alamofire" width="40" height="40"/>&nbsp;
   
 </div>
